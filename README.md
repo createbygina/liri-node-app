@@ -3,9 +3,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 
 Commands
 
+* movies-this
 * concert-this
 * spotify-this-song
-* movie-this
 * do-what-it-says
 
 ![](liri.gif)
